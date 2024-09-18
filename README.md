@@ -1,4 +1,4 @@
-# [Koen]
+# [Koen Myers]
 ## [Lab 2]
 ## [Submission date: 09/18/24]
 ## Worked with/sources 
